@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi y'all! My name is Ella, I'm a freshman CS major at UGA!
+- 🔭 I'm currently working on my network+ certification
+- 🌱 I'm currently learning python, java, and hacking!
+More to come soon!
 <!--
 **3stella25/3stella25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
